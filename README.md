@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bem vindos ao meu perfil 🌻
 
-<!--
-**zxmarianny/zxmarianny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é zxmarianny
 
-Here are some ideas to get you started:
+- estou estudando no alura
+- estou me desenvolvendo na linguagem javascript
+- ultilizo esse espaço para minha organização e compartilhamento dos meusa projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### para entrar em contato comigo 📧
+
+- marianny.marceli23@gmail.com
+
+- @xzmarianny
+
+- ![](https://media.tenor.com/xPBZqvuMK2IAAAAM/kitty-love.gif)
