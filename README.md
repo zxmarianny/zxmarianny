@@ -1,8 +1,8 @@
 ### Bem vindos ao meu perfil 🌻
 
-meu nome é zxmarianny
+meu nome é marianny
 
-- estou estudando no alura
+- estou estudando no alura ![](https://cursos.alura.com.br/dashboard)
 - estou me desenvolvendo na linguagem javascript
 - ultilizo esse espaço para minha organização e compartilhamento dos meusa projetos desenvolvidos
 
